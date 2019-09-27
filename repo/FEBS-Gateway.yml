@@ -2,7 +2,7 @@ spring:
   boot:
     admin:
       client:
-        url: http://${febs-monitor-admin}:8401
+        url: http://febs-monitor-admin:8401
         username: febs
         password: 123456
   mvc:
